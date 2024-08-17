@@ -1,0 +1,2 @@
+[console_scripts]
+cisc179 = cisc179.__main__:main

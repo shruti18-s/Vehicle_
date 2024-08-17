@@ -1,0 +1,16 @@
+setuptools~=65.5.1
+pathvalidate~=2.5.2
+pytest~=7.2.2
+jsonpickle~=3.0.1
+
+[test]
+pytest
+coverage
+flake8
+black
+isort
+pytest-cov
+codecov
+mypy
+gitchangelog
+mkdocs

@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: cisc179
+Version: 0.1.0
+Summary: Awesome cisc179 created by ahuang-cs
+Home-page: https://github.com/ahuang-cs/CISC179/
+Author: ahuang-cs
+Description-Content-Type: text/markdown
+Provides-Extra: test
+License-File: LICENSE
 
 # Python Project Template
 
